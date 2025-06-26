@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Hamza Siddiqui
+# 👋 Hi, I'm Hamza Siddiqui
 
 🔧 **Salesforce Architect | Agentforce Champion | AI-Ready CRM Strategist**
 
@@ -36,30 +36,16 @@ Welcome to my GitHub! I'm a Salesforce Architect with 11+ years of experience de
 
 ---
 
-## 📌 Featured Projects
-
-- 🔄 **Workflow2Flow**  
-  Heroku-based app converting legacy Workflows & Process Builders into modern Flows using Gemini API.
-
-- 🧭 **Salesforce Recovery Toolkit (OWNData)**  
-  A disaster recovery blueprint for Salesforce orgs — including file/data corruption, metadata rollback, and backup orchestration.
-
-- 🎓 **Otago Human Anatomy Viewer**  
-  Salesforce Experience Cloud + 3D rendering for educational experiences in healthcare and universities.
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](http://mhamzas.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/mhamzas)  
-- 🧠 [Agentforce Community](https://trailblazer.me/id/mhamzas)  
+- 🧠 [Trailblazer Community](https://trailblazer.me/id/mhamzas)  
 - 🧾 [Resume](http://mhamzas.com)
 
 ---
 
 > ⚡ "I don’t just build Salesforce solutions — I help organizations design future-proof digital backbones that scale with intelligence."
-
 
 
 <!---
